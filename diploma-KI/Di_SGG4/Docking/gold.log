@@ -1,0 +1,14 @@
+Beginning ligand file 'G:/MD - SGG4/SGG-4.sdf'
+Starting at ligand 1 (byte position 0) in file 'G:/MD - SGG4/SGG-4.sdf'
+Finishing at final ligand in file 'G:/MD - SGG4/SGG-4.sdf'
+Completed docking of ligand 1 in ligand file 'G:/MD - SGG4/SGG-4.sdf'
+
+Finished GOLD batch job, exiting..
+
+
+--------------------------------------------------------------------------------
+
+* Total run time :                                                              
+  total 307.0008 user 304.0007 sys  3.0001
+
+--------------------------------------------------------------------------------

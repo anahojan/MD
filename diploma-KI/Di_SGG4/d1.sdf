@@ -1,0 +1,220 @@
+****|SGG-4|sdf|1|dock2
+XX    ILIB10072303583D
+
+ 46 48  0  0  1  0              1 V2000
+   40.0737   -0.0492   37.1398 S   0  0  0  0  0
+   40.1586    0.8280   35.6650 C   0  0  0  0  0
+   39.4644    1.9445   35.6293 N   0  0  0  0  0
+   38.8209    2.1288   36.8367 C   0  0  0  0  0
+   39.0307    1.1500   37.7894 C   0  0  0  0  0
+   38.4704    1.0205   39.1690 C   0  0  0  0  0
+   36.6706    1.3050   39.1762 S   0  0  0  0  0
+   36.1268   -0.3667   39.1650 C   0  0  0  0  0
+   36.6746   -1.2454   38.2428 N   0  0  0  0  0
+   36.2502   -2.5679   38.2080 C   0  0  0  0  0
+   36.8045   -3.4630   37.2902 O   0  0  0  0  0
+   35.2995   -2.9758   39.0545 N   0  0  0  0  0
+   34.8145   -2.0664   39.9085 C   0  0  0  0  0
+   33.5087   -2.6059   40.9794 S   0  0  0  0  0
+   32.3104   -2.9786   39.6733 C   0  0  0  0  0
+   31.8414   -1.7387   38.9552 C   0  0  0  0  0
+   32.3344   -0.4759   39.3045 C   0  0  0  0  0
+   31.9181    0.6669   38.6142 C   0  0  0  0  0
+   30.9868    0.5760   37.5702 C   0  0  0  0  0
+   30.4869   -0.6895   37.2314 C   0  0  0  0  0
+   30.9061   -1.8325   37.9167 C   0  0  0  0  0
+   30.4987   -2.8004   37.6313 H   0  0  0  0  0
+   29.7663   -0.7979   36.4234 H   0  0  0  0  0
+   30.5377    1.7915   36.7778 C   0  0  0  0  0
+   31.7021    2.6615   36.2968 C   0  0  0  0  0
+   31.3293    3.6132   35.9023 H   0  0  0  0  0
+   32.3904    2.8857   37.1190 H   0  0  0  0  0
+   32.2755    2.1795   35.4978 H   0  0  0  0  0
+   29.6565    1.3668   35.6012 C   0  0  0  0  0
+   29.2795    2.2434   35.0638 H   0  0  0  0  0
+   28.7913    0.7901   35.9474 H   0  0  0  0  0
+   30.2069    0.7444   34.8870 H   0  0  0  0  0
+   29.9286    2.4252   37.4368 H   0  0  0  0  0
+   32.3384    1.6281   38.8997 H   0  0  0  0  0
+   33.0546   -0.3711   40.1130 H   0  0  0  0  0
+   32.7645   -3.6755   38.9589 H   0  0  0  0  0
+   31.4368   -3.4896   40.0964 H   0  0  0  0  0
+   35.1810   -0.7830   40.0070 N   0  0  0  0  0
+   37.3816   -0.9155   37.6009 H   0  0  0  0  0
+   38.9467    1.7316   39.8526 H   0  0  0  0  0
+   38.6735    0.0090   39.5403 H   0  0  0  0  0
+   38.2017    3.0083   36.9693 H   0  0  0  0  0
+   40.9646    0.3040   34.5295 C   0  0  0  0  0
+   40.5640   -0.6445   34.1578 H   0  0  0  0  0
+   40.9753    1.0267   33.7074 H   0  0  0  0  0
+   41.9990    0.1311   34.8441 H   0  0  0  0  0
+  1  2  1  0  0  0
+  1  5  1  0  0  0
+  2  3  2  0  0  0
+  2 43  1  0  0  0
+  3  4  1  0  0  0
+  4  5  2  0  0  0
+  4 42  1  0  0  0
+  5  6  1  0  0  0
+  6  7  1  0  0  0
+  6 40  1  0  0  0
+  6 41  1  0  0  0
+  7  8  1  0  0  0
+  8  9  1  0  0  0
+  8 38  2  0  0  0
+  9 10  1  0  0  0
+  9 39  1  0  0  0
+ 10 11  2  0  0  0
+ 10 12  1  0  0  0
+ 12 13  2  0  0  0
+ 13 14  1  0  0  0
+ 13 38  1  0  0  0
+ 14 15  1  0  0  0
+ 15 16  1  0  0  0
+ 15 36  1  0  0  0
+ 15 37  1  0  0  0
+ 16 17  1  0  0  0
+ 16 21  2  0  0  0
+ 17 18  2  0  0  0
+ 17 35  1  0  0  0
+ 18 19  1  0  0  0
+ 18 34  1  0  0  0
+ 19 20  2  0  0  0
+ 19 24  1  0  0  0
+ 20 21  1  0  0  0
+ 20 23  1  0  0  0
+ 21 22  1  0  0  0
+ 24 25  1  0  0  0
+ 24 29  1  0  0  0
+ 24 33  1  0  0  0
+ 25 26  1  0  0  0
+ 25 27  1  0  0  0
+ 25 28  1  0  0  0
+ 29 30  1  0  0  0
+ 29 31  1  0  0  0
+ 29 32  1  0  0  0
+ 43 44  1  0  0  0
+ 43 45  1  0  0  0
+ 43 46  1  0  0  0
+M  END
+> <Gold.PLP.ligand.clash>
+0.0
+
+> <Gold.Goldscore.External.HBond>
+1.4847
+
+> <Gold.Goldscore.Fitness>
+67.7756
+
+> <Gold.PLP.ligand.torsion>
+0.7048
+
+> <Gold.PLP.PLP>
+-71.7159
+
+> <Gold.PLP.Chemscore.CHOScore>
+0.0
+
+> <Gold.PLP.Chemscore.Internal.Correction>
+0.2354
+
+> <Gold.Protein.ActiveResidues>
+ GLU87   ILE88   VAL90   ASN91   ALA92   ASP94   ASN95   ARG98   ILE118  ASN120 
+ LYS123  GLY124  ILE125  ILE141  PHE142  THR147  SER148  SER149  ASN150  TYR151 
+ GLY160  GLY161  ARG162  ASN163  GLY164  TYR165  GLY166  ALA167  LYS168  LEU169 
+ THR181  THR215  ILE217  ILE317  GLN376  LYS378  ILE33   TYR34   MG903  
+
+> <Gold.PLP.part.metal>
+-1.0
+
+> <Gold.Goldscore.Internal.HBond>
+0.0
+
+> <Gold.PLP.Chemscore.Metal>
+0.9865
+
+> <Gold.Chemscore.Hbonds>
+donor molecule, donor type, donor heavy atom, donor atom, acceptor molecule, acceptor atom, score
+      P1  H   983  6916       L1    11  0.48
+      P1  M  5930  5930       L1     3  0.99
+
+> <Gold.Goldscore.Internal.Torsion.Weighted>
+-4.6232
+
+> <Gold.Protein.RotatedTorsions>
+[ 8917 2752 2751 2750 ] final   72.28 input   60.00 | X-H torsion
+[ 6904  969  968  965 ] final  105.36 input   59.99 | X-H torsion
+[ 6910  975  974  971 ] final  -91.72 input   60.00 | X-H torsion
+[ 6896  962  961  958 ] final  121.08 input   60.00 | X-H torsion
+[ 9168 2997 2996 2994 ] final   97.12 input   60.00 | X-H torsion
+[ 7499 1497 1496 1493 ] final  147.07 input   60.00 | X-H torsion
+[ 7233 1220 1219 1216 ] final  139.49 input   60.00 | X-H torsion
+[ 6925  995  994  992 ] final  -97.22 input   60.0
+
+> <Gold.Goldscore.Constraint.Score>
+0.0
+
+> <Gold.Id.Protein>
+1ZXM|1ZXM_protein|mol2
+
+> <Gold.PLP.part.buried>
+-3.7255
+
+> <Gold.PLP.part.nonpolar>
+-67.1201
+
+> <Gold.PLP.part.hbond>
+-2.0
+
+> <Gold.PLP.Chemscore.Hbond>
+0.4805
+
+> <Gold.PLP.Fitness>
+77.9024
+
+> <Gold.Protein.RotatedAtoms>
+   40.3409    3.7227   42.4950 H   0  0  0  0  0  0  0  0  0  0  0  0  # atno 6896 bound_to 962 
+   41.5175   -2.0654   38.2515 H   0  0  0  0  0  0  0  0  0  0  0  0  # atno 6904 bound_to 969 
+   37.8580   -3.8960   40.6059 H   0  0  0  0  0  0  0  0  0  0  0  0  # atno 6910 bound_to 975 
+   46.9312    1.4821   39.8911 H   0  0  0  0  0  0  0  0  0  0  0  0  # atno 6925 bound_to 995 
+   28.3662    0.0902   43.2889 H   0  0  0  0  0  0  0  0  0  0  0  0  # atno 7233 bound_to 1220
+   28.0122   -1.1600   40.9
+
+> <Gold.Version>
+5.3.0
+
+> <Gold.Goldscore.Internal.Correction>
+-0.0166
+
+> <Gold.Goldscore.Internal.Vdw>
+-1.3472
+
+> <Gold.Goldscore.Internal.Vdw.Weighted>
+-1.3472
+
+> <Gold.Goldscore.External.HBond.Weighted>
+1.4847
+
+> <Gold.Goldscore.External.Vdw.Weighted>
+72.2447
+
+> <Gold.PLP.part.repulsive>
+0.1479
+
+> <Gold.Goldscore.Internal.HBond.Weighted>
+0.0
+
+> <Gold.Goldscore.Hbonds>
+donor molecule, donor type, donor heavy atom, donor atom, acceptor molecule, acceptor atom, score
+      L1  H     1    27       P1   757  0.74
+
+> <Gold.Goldscore.External.Vdw>
+52.5416
+
+> <Gold.Goldscore.Internal.Torsion>
+-4.6232
+
+> <Gold.Goldscore.Internal.Correction.Weighted>
+-0.0166
+
+$$$$

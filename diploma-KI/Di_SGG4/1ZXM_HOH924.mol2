@@ -1,0 +1,12 @@
+@<TRIPOS>MOLECULE
+1ZXM_HOH924
+     1     0     1     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD - Crystal connectivity not present
+
+@<TRIPOS>ATOM
+     1 O       59.2305   5.2951  19.0308   O.3       1 HOH924   0.0000
+@<TRIPOS>SUBSTRUCTURE
+     1 HOH924      1 GROUP             0 B     HOH     0  

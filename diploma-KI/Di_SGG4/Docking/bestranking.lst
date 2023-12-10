@@ -1,0 +1,8 @@
+# File containing a listing of the fitness of the top-ranked
+# individual for each ligand docked in GOLD.
+#
+# Format is:
+#
+#     Score        ASP     S(Map)  DE(clash)    DE(int)     intcor     time                               File name                Ligand name
+
+     30.74      34.37    -171.84       1.86       1.77       0.11   299.000  'G:/diploma-KI/Di_SGG4/Docking\gold_soln_SGG-4_m1_81.sdf'  '****|SGG-4|mol2|1|dock3'

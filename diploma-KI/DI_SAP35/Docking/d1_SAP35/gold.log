@@ -1,0 +1,14 @@
+Beginning ligand file 'G:/MD-SAP35/SAP-35.sdf'
+Starting at ligand 1 (byte position 0) in file 'G:/MD-SAP35/SAP-35.sdf'
+Finishing at final ligand in file 'G:/MD-SAP35/SAP-35.sdf'
+Completed docking of ligand 1 in ligand file 'G:/MD-SAP35/SAP-35.sdf'
+
+Finished GOLD batch job, exiting..
+
+
+--------------------------------------------------------------------------------
+
+* Total run time :                                                              
+  total 34.0017 user 34.0010 sys  0.0007
+
+--------------------------------------------------------------------------------
