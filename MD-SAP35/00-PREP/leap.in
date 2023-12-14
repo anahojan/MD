@@ -1,0 +1,24 @@
+source leaprc.gaff2
+source leaprc.protein.ff14SB
+source leaprc.water.tip3p
+# source leaprc.DNA.bsc1
+
+# source leaprc.lipid14
+# source leaprc.phosaa10
+
+# loadamberparams TYP.frcmod
+# loadoff TYP.off
+
+a = loadpdb encim_261.pdb 
+
+addIons a Na+ 0
+addIons a Cl- 0
+
+solvateBox a TIP3PBOX 10 iso
+
+savepdb a system_leap.pdb
+
+saveamberparm a system.top system.coord
+
+quit 
+

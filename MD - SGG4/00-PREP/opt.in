@@ -1,0 +1,15 @@
+Rh in dna
+ &cntrl
+  imin   = 1,
+  maxcyc = 30000,
+  ncyc   = 10000,
+  ntb    = 1,
+  ntr    = 0,
+  cut    = 10
+ /
+Hold the protein fixed
+100.0
+RES 1 2326
+END
+END
+

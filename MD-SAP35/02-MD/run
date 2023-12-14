@@ -1,0 +1,23 @@
+#!/bin/bash
+#
+#SBATCH --job-name="MD_str6c_gpu"
+#SBATCH --time=9999:00:00
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=4
+#SBATCH --cpus-per-task=1
+#SBATCH --partition=gpu
+#SBATCH --gres=gpu:4
+#SBATCH --mem=60GB
+
+################################################################################
+
+#
+
+# --- Conduct calculation
+
+#
+
+module load amber/amber20
+
+export CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7
+mpirun -N 4 pmemd.cuda_SPFP.MPI -O -i MD.in -o MD.out -p ../00-PREP/system.top -c ../01-MINIM/eqmdnpt-2.restart -ref ../01-MINIM/eqmdnpt-2.restart -r MD.restart -x MD.nc
